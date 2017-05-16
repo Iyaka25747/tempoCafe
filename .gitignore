@@ -1,2 +1,6 @@
 /.cproject
 /.project
+/core/
+/Release/
+/.settings/
+/.ino.cpp
