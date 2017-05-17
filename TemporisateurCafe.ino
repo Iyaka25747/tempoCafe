@@ -1,4 +1,4 @@
-// Temporisateur Machine à Café et thé et sucre
+// Temporisateur Machine à Café et thé et sucre GO
 
 #include "Arduino.h"
 #include "TM1637Display.h"
