@@ -1,2 +1,2 @@
 # tempoCafe
-Temporisateur machine à café
+- Temporisateur machine à café.
